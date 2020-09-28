@@ -25,7 +25,7 @@ function App() {
       console.log(eval(c));
       setx(eval(c));
     }
-    catch{setx('Error : Do not start with 0');}
+    catch{setx('Error 🚫');}
  
 
 
